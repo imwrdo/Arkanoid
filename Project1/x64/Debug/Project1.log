@@ -1,0 +1,3 @@
+﻿  arkanoid.c
+C:\Users\Administrator\Dropbox\PC (2)\Desktop\Arkanoid\Project1\Project1\arkanoid.c(64,7): warning C4101: 'key': unreferenced local variable
+  Project1.vcxproj -> C:\Users\Administrator\Dropbox\PC (2)\Desktop\Arkanoid\Project1\x64\Debug\Project1.exe
